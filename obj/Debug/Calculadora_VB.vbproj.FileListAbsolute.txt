@@ -1,0 +1,12 @@
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.vbproj.AssemblyReference.cache
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.FormPrincipal.resources
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.Resources.resources
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.vbproj.GenerateResource.cache
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.vbproj.CoreCompileInputs.cache
+C:\Users\lili\source\repos\Calculadora_VB\bin\Debug\Calculadora_VB.exe.config
+C:\Users\lili\source\repos\Calculadora_VB\bin\Debug\Calculadora_VB.exe
+C:\Users\lili\source\repos\Calculadora_VB\bin\Debug\Calculadora_VB.pdb
+C:\Users\lili\source\repos\Calculadora_VB\bin\Debug\Calculadora_VB.xml
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.exe
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.xml
+C:\Users\lili\source\repos\Calculadora_VB\obj\Debug\Calculadora_VB.pdb
